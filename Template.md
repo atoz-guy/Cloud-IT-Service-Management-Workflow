@@ -1,9 +1,9 @@
 **Resolution-Template**
 # [Issue Title]
 
-**Ticket ID:** [e.g., #1042]
-**Category:** [e.g., OS, Active Directory, Networking, Remote]
-**Priority:** [Low/Med/High]
+**Ticket ID:** [e.g., #1042].
+**Category:** [e.g., OS, Active Directory, Networking, Remote].
+**Priority:** [Low/Med/High].
 
 ### 1. Initial Assessment
 * **User Report:** [Concise summary of the user's problem]
