@@ -18,10 +18,10 @@ I adhere to a standardized workflow to ensure every request is handled consisten
 5. **Document:** Log resolution steps to ensure future knowledge sharing.
 
 ## Case Studies
-1. [Spiceworks Cloud Help Desk Initialization](Case-Study-#1:-Spiceworks-Cloud-Help-Desk-Initialization.md)
-2. [Cloud Account Lockout Resolution](Case-Study-#2-:-Cloud-Account-Lockout.md)
-3. [Network Connectivity Troubleshooting](Case-Study-#3:-Network-Connectivity.md)
-4. [Pending: User Permission/Access Management]
+1. [Spiceworks Cloud Help Desk Initialization](Spiceworks-Cloud-Help-Desk-Initialization.md)
+2. [Cloud Account Lockout Resolution](Cloud-Account-Lockout.md)
+3. [Network Connectivity Troubleshooting](Network-Connectivity.md)
+4. [Pending: User Permission/Access Management](User-Permissions.md)
 
 ## Platform Proficiency
 * **Spiceworks Cloud Help Desk:** Used for end-to-end ticketing, inventory tracking, and incident management.
