@@ -20,6 +20,7 @@ I adhere to a standardized workflow to ensure every request is handled consisten
 ## Case Studies
 * [ ] [Issue: Network Connectivity Troubleshooting](link-to-your-case-study)
 * [ ] [Issue: User Permission/Access Management](link-to-your-case-study)
+* [ ] [Spiceworks Cloud Help Desk Initialization](Case-Studies/Onboarding-and-System-Verification.md)
 
 ## Platform Proficiency
 * **Spiceworks Cloud Help Desk:** Used for end-to-end ticketing, inventory tracking, and incident management.
