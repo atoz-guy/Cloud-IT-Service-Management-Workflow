@@ -18,9 +18,9 @@ I adhere to a standardized workflow to ensure every request is handled consisten
 5. **Document:** Log resolution steps to ensure future knowledge sharing.
 
 ## Case Studies
-1. [Spiceworks Cloud Help Desk Initialization](Case-Studies/Onboarding-and-System-Verification.md)
-2. [Cloud Account Lockout Resolution](Case-Studies/Cloud-Account-Lockout.md)
-3. [Pending: Network Connectivity Troubleshooting]
+1. [Spiceworks Cloud Help Desk Initialization](Case-Study-#1:-Spiceworks-Cloud-Help-Desk-Initialization.md)
+2. [Cloud Account Lockout Resolution](Case-Study-#2-:-Cloud-Account-Lockout.md)
+3. [Network Connectivity Troubleshooting](Case-Study-#3:-Network-Connectivity.md)
 4. [Pending: User Permission/Access Management]
 
 ## Platform Proficiency
