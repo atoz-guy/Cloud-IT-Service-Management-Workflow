@@ -4,6 +4,7 @@ When taking ownership of a new ticket, use the following questions to gather nec
 Professional documentation relies on consistent communication.
 
 **1. Discovery Questions**
+
 **Visual Verification:**
 **"Can you describe exactly what you see on your screen when the error occurs? If possible, please attach a screenshot."**
 
