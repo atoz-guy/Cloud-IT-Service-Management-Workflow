@@ -1,4 +1,4 @@
-# Case Study: Spiceworks Cloud Help Desk Initialization
+# Case Study #1: Spiceworks Cloud Help Desk Initialization
 
 ## Overview
 As part of establishing a Cloud-IT Service Management (ITSM) infrastructure for my home lab, I performed the initial configuration and verification of the Spiceworks Cloud Help Desk instance.
