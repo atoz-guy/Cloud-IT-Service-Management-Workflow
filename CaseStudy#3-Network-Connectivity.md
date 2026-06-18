@@ -1,5 +1,4 @@
-**# Case Study #3 : Network-Connectivity Resolution**
-# Case Study: Network Connectivity Troubleshooting
+**# Case Study #3 : Network-Connectivity Troubleshooting**
 
 ## Incident Details
 * **Category:** Network / Infrastructure
