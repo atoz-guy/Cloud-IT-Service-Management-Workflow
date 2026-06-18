@@ -1,4 +1,4 @@
-# IT-Service-Management-Workflow
+# Cloud-IT-Service-Management-Workflow
 
 This repository serves as a portfolio of my technical support methodologies, ticket lifecycle management, and hands-on experience with IT ticketing systems.
 
